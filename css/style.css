@@ -14,3 +14,12 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+section h2 {
+	font: 16px 'Open Sans';
+	font-weight: bold;
+	text-align: center;
+	color: red;
+}
+section img {
+	padding: 0 0 0 150px;
+}
